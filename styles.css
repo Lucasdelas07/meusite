@@ -38,13 +38,3 @@ footer {
     background-color: #000;
     color: #fff;
 }
-
-/* Estilo adicional para o "easter egg" */
-.easter-egg {
-    position: fixed;
-    bottom: -50px;
-    right: -50px;
-    font-size: 0;
-    color: transparent;
-}
-
