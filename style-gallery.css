@@ -1,0 +1,24 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.gallery {
+    background-color: #000;
+    color: #fff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
