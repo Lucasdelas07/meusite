@@ -1,0 +1,38 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.about {
+    background-color: #fff;
+    color: #000;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
+
+.easter-egg {
+    position: fixed;
+    bottom: -50px;
+    right: -50px;
+    font-size: 0;
+    color: transparent;
+}
