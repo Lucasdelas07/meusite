@@ -1,1 +1,50 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.about {
+    background-color: #fff;
+    color: #000;
+}
+
+.services {
+    background-color: #000;
+    color: #fff;
+}
+
+.gallery {
+    background-color: #000;
+    color: #fff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
+
+/* Estilo adicional para o "easter egg" */
+.easter-egg {
+    position: fixed;
+    bottom: -50px;
+    right: -50px;
+    font-size: 0;
+    color: transparent;
+}
 
